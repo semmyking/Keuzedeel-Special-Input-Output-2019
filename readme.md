@@ -1,8 +1,7 @@
 # Special Input/Output
-Team #
-1. teamlid 
-2. teamlid
-3. teamlid
+Team 8#
+1. Sem Satoer
+2. Martijn Jakobs
 
 [Projectmanagment]() <Trello scrumboard bijvoorbeeld>
 
