@@ -577,3 +577,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.13-07.39.15:145][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
 [2019.05.13-07.47.25:249][317]LogSlate: Took 0.012972 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2019.05.13-07.57.21:018][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.13-08.05.12:426][199]Cmd: POLY SELECT MEMORY UNION
+[2019.05.13-08.05.13:433][272]Cmd: POLY SELECT ADJACENT WALLS
+[2019.05.13-08.05.37:648][718]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.13-08.05.40:093][858]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.13-08.05.40:193][858]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2019.05.13-08.05.40:564][858]LogSavePackage: Moving 'D:/ma/projecten/tweede jaar/ProjectInputOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Saved/ThirdPersonExampleMap18E0BD9D4712123F338B9A8F75AD7C37.tmp' to 'D:/ma/projecten/tweede jaar/ProjectInputOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.05.13-08.05.41:017][858]LogSavePackage: Moving 'D:/ma/projecten/tweede jaar/ProjectInputOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Saved/ThirdPersonExampleMap_BuiltData1496ABDE45B37D66FE5BD0910F4022E7.tmp' to 'D:/ma/projecten/tweede jaar/ProjectInputOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
