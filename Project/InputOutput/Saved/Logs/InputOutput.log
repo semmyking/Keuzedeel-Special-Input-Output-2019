@@ -584,3 +584,195 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.13-08.05.40:193][858]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
 [2019.05.13-08.05.40:564][858]LogSavePackage: Moving 'D:/ma/projecten/tweede jaar/ProjectInputOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Saved/ThirdPersonExampleMap18E0BD9D4712123F338B9A8F75AD7C37.tmp' to 'D:/ma/projecten/tweede jaar/ProjectInputOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.05.13-08.05.41:017][858]LogSavePackage: Moving 'D:/ma/projecten/tweede jaar/ProjectInputOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Saved/ThirdPersonExampleMap_BuiltData1496ABDE45B37D66FE5BD0910F4022E7.tmp' to 'D:/ma/projecten/tweede jaar/ProjectInputOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.05.13-08.10.11:244][149]LogAIModule: Creating AISystem for world SemScene
+[2019.05.13-08.10.11:250][149]LogAssetEditorManager: Opening Asset editor for World /Game/Scenes/SemScene.SemScene
+[2019.05.13-08.10.11:298][149]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.05.13-08.10.11:305][149]Cmd: MAP LOAD FILE="D:/ma/projecten/tweede jaar/ProjectInputOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Content/Scenes/SemScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.13-08.10.11:306][149]LightingResults: New page: Lighting Build
+[2019.05.13-08.10.11:307][149]LoadErrors: New page: Loading map: SemScene.umap
+[2019.05.13-08.10.11:313][149]MapCheck: New page: Map Check
+[2019.05.13-08.10.11:313][149]LightingResults: New page: Lighting Build
+[2019.05.13-08.10.11:372][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2019.05.13-08.10.11:375][149]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.13-08.10.11:422][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.05.13-08.10.11:455][149]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.13-08.10.11:462][149]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5,844ms to complete.
+[2019.05.13-08.10.11:462][149]LogFileHelpers: Loading map 'SemScene' took 0.162
+[2019.05.13-08.10.12:465][212]LogAIModule: Creating AISystem for world MartijnScene
+[2019.05.13-08.10.12:468][212]LogAssetEditorManager: Opening Asset editor for World /Game/Scenes/MartijnScene.MartijnScene
+[2019.05.13-08.10.12:511][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.05.13-08.10.12:512][212]Cmd: MAP LOAD FILE="D:/ma/projecten/tweede jaar/ProjectInputOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Content/Scenes/MartijnScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.13-08.10.12:512][212]LightingResults: New page: Lighting Build
+[2019.05.13-08.10.12:513][212]LoadErrors: New page: Loading map: MartijnScene.umap
+[2019.05.13-08.10.12:513][212]MapCheck: New page: Map Check
+[2019.05.13-08.10.12:514][212]LightingResults: New page: Lighting Build
+[2019.05.13-08.10.12:561][212]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2019.05.13-08.10.12:563][212]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.13-08.10.12:611][212]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.05.13-08.10.12:640][212]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.13-08.10.12:641][212]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,125ms to complete.
+[2019.05.13-08.10.12:641][212]LogFileHelpers: Loading map 'MartijnScene' took 0.129
+[2019.05.13-08.10.13:273][254]LogAIModule: Creating AISystem for world SemScene
+[2019.05.13-08.10.13:276][254]LogAssetEditorManager: Opening Asset editor for World /Game/Scenes/SemScene.SemScene
+[2019.05.13-08.10.13:318][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2019.05.13-08.10.13:319][254]Cmd: MAP LOAD FILE="D:/ma/projecten/tweede jaar/ProjectInputOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Content/Scenes/SemScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.13-08.10.13:319][254]LightingResults: New page: Lighting Build
+[2019.05.13-08.10.13:320][254]LoadErrors: New page: Loading map: SemScene.umap
+[2019.05.13-08.10.13:321][254]MapCheck: New page: Map Check
+[2019.05.13-08.10.13:321][254]LightingResults: New page: Lighting Build
+[2019.05.13-08.10.13:367][254]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.05.13-08.10.13:369][254]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.13-08.10.13:420][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.05.13-08.10.13:449][254]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.13-08.10.13:449][254]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,138ms to complete.
+[2019.05.13-08.10.13:449][254]LogFileHelpers: Loading map 'SemScene' took 0.131
+[2019.05.13-08.10.14:133][318]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0009 seconds. Added 2 classes and 3 folders.
+[2019.05.13-08.10.23:280][ 41]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.13-08.10.23:314][ 41]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.05.13-08.10.23:363][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2019.05.13-08.10.23:365][ 41]LightingResults: New page: Lighting Build
+[2019.05.13-08.10.23:366][ 41]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.05.13-08.10.23:366][ 41]MapCheck: New page: Map Check
+[2019.05.13-08.10.23:366][ 41]LightingResults: New page: Lighting Build
+[2019.05.13-08.10.23:410][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.05.13-08.10.23:423][ 41]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.13-08.10.23:474][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2019.05.13-08.10.23:505][ 41]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.13-08.10.23:506][ 41]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,133ms to complete.
+[2019.05.13-08.10.23:506][ 41]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.142
+[2019.05.13-08.10.43:482][484]LogAIModule: Creating AISystem for world SemScene
+[2019.05.13-08.10.43:486][484]LogAssetEditorManager: Opening Asset editor for World /Game/Scenes/SemScene.SemScene
+[2019.05.13-08.10.43:531][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.05.13-08.10.43:533][484]Cmd: MAP LOAD FILE="D:/ma/projecten/tweede jaar/ProjectInputOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Content/Scenes/SemScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.13-08.10.43:533][484]LightingResults: New page: Lighting Build
+[2019.05.13-08.10.43:534][484]LoadErrors: New page: Loading map: SemScene.umap
+[2019.05.13-08.10.43:535][484]MapCheck: New page: Map Check
+[2019.05.13-08.10.43:535][484]LightingResults: New page: Lighting Build
+[2019.05.13-08.10.43:584][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.05.13-08.10.43:586][484]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.13-08.10.43:639][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2019.05.13-08.10.43:668][484]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.13-08.10.43:668][484]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,122ms to complete.
+[2019.05.13-08.10.43:668][484]LogFileHelpers: Loading map 'SemScene' took 0.137
+[2019.05.13-08.10.54:027][320]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.05.13-08.11.01:938][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.13-08.11.03:409][ 77]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.05.13-08.11.07:860][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.13-08.11.11:266][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.13-08.11.13:796][826]Cmd: TRANSACTION UNDO
+[2019.05.13-08.11.13:796][826]LogEditorTransaction: Undo Edit Light Color
+[2019.05.13-08.11.14:988][880]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.13-08.11.33:083][842]LogSlate: Window 'Save Asset As' being destroyed
+[2019.05.13-08.11.34:611][949]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.13-08.11.34:637][949]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Scenes/SemScene.SemScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/SemScene.SemScene:PersistentLevel.SemScene' with GeneratedClass '/Game/Scenes/SemScene.SemScene_C' with ClassGeneratedBy '/Game/Scenes/SemScene.SemScene:PersistentLevel.SemScene'
+[2019.05.13-08.11.34:638][949]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.13-08.11.34:639][949]PIE: New page: PIE session: SemScene (13 mei 2019 12:11:34)
+[2019.05.13-08.11.34:659][949]LogPlayLevel: Creating play world package: /Game/Scenes/UEDPIE_0_SemScene
+[2019.05.13-08.11.34:662][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002909s)
+[2019.05.13-08.11.34:663][949]LogAIModule: Creating AISystem for world SemScene
+[2019.05.13-08.11.34:663][949]LogPlayLevel: PIE: World Init took: (0.001506s)
+[2019.05.13-08.11.34:664][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Scenes/SemScene.SemScene to /Game/Scenes/UEDPIE_0_SemScene.SemScene (0.004921s)
+[2019.05.13-08.11.34:709][949]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2019.05.13-08.11.34:736][949]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.13-08.11.34:754][949]LogInit: FAudioDevice initialized.
+[2019.05.13-08.11.34:824][949]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.05.13-08.11.34:833][949]LogWorld: Bringing World /Game/Scenes/UEDPIE_0_SemScene.SemScene up for play (max tick rate 0) at 2019.05.13-10.11.34
+[2019.05.13-08.11.34:834][949]LogWorld: Bringing up level for play took: 0.001803
+[2019.05.13-08.11.34:872][949]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2019.05.13-08.11.34:881][949]PIE: Play in editor start time for /Game/Scenes/UEDPIE_0_SemScene 0,798
+[2019.05.13-08.11.34:881][949]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Scenes/SemScene.SemScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/SemScene.SemScene:PersistentLevel.SemScene' with GeneratedClass '/Game/Scenes/SemScene.SemScene_C' with ClassGeneratedBy '/Game/Scenes/SemScene.SemScene:PersistentLevel.SemScene'
+[2019.05.13-08.11.48:305][252]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Scenes/SemScene.SemScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/SemScene.SemScene:PersistentLevel.SemScene' with GeneratedClass '/Game/Scenes/SemScene.SemScene_C' with ClassGeneratedBy '/Game/Scenes/SemScene.SemScene:PersistentLevel.SemScene'
+[2019.05.13-08.11.48:306][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.13-08.11.48:335][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.13-08.11.48:335][252]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Scenes/SemScene.SemScene:PersistentLevel' has LevelScriptBlueprint '/Game/Scenes/SemScene.SemScene:PersistentLevel.SemScene' with GeneratedClass '/Game/Scenes/SemScene.SemScene_C' with ClassGeneratedBy '/Game/Scenes/SemScene.SemScene:PersistentLevel.SemScene'
+[2019.05.13-08.11.48:383][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.13-08.11.48:389][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.05.13-08.11.48:408][253]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.05.13-08.11.51:061][506]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.13-08.11.57:735][984]Cmd: DELETE
+[2019.05.13-08.11.57:735][984]Cmd: ACTOR DELETE
+[2019.05.13-08.11.57:746][984]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.05.13-08.11.57:789][984]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2019.05.13-08.11.57:789][984]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2019.05.13-08.11.58:683][ 54]LogEditorViewport: Clicking Background
+[2019.05.13-08.11.59:027][ 86]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2019.05.13-08.11.59:331][110]Cmd: DELETE
+[2019.05.13-08.11.59:331][110]Cmd: ACTOR DELETE
+[2019.05.13-08.11.59:333][110]LogEditorActor: Deleted Actor: SkyLight
+[2019.05.13-08.11.59:376][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2019.05.13-08.11.59:376][110]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2019.05.13-08.14.04:707][639]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.13-08.15.06:380][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.13-08.15.20:552][138]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2019.05.13-08.15.22:755][138]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.13-08.15.22:887][138]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2019.05.13-08.15.32:540][435]LogSlate: Window 'New Level' being destroyed
+[2019.05.13-08.15.49:233][859]LogSlate: Window 'Unable to delete level' being destroyed
+[2019.05.13-08.15.51:331][ 23]LogAIModule: Creating AISystem for world MartijnScene
+[2019.05.13-08.15.51:378][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.05.13-08.15.52:874][ 23]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.13-08.15.53:032][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.05.13-08.15.53:080][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2019.05.13-08.15.53:127][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.05.13-08.15.56:561][154]LogSlate: Window 'Unable to delete level' being destroyed
+[2019.05.13-08.16.02:015][464]LogSlate: Window 'Unable to delete level' being destroyed
+[2019.05.13-08.16.06:513][768]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.13-08.16.06:547][768]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.05.13-08.16.06:594][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2019.05.13-08.16.08:873][768]LogSlate: Window 'Save Content' being destroyed
+[2019.05.13-08.16.08:883][768]LightingResults: New page: Lighting Build
+[2019.05.13-08.16.08:886][768]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.05.13-08.16.08:899][768]MapCheck: New page: Map Check
+[2019.05.13-08.16.08:900][768]LightingResults: New page: Lighting Build
+[2019.05.13-08.16.08:947][768]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2019.05.13-08.16.09:093][768]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.13-08.16.09:140][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.05.13-08.16.09:174][768]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.13-08.16.09:174][768]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,166ms to complete.
+[2019.05.13-08.16.09:174][768]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.296
+[2019.05.13-08.16.12:321][973]LogAIModule: Creating AISystem for world SemScene
+[2019.05.13-08.16.12:377][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.05.13-08.16.13:956][973]LogSlate: Window 'Delete Assets' being destroyed
+[2019.05.13-08.16.14:109][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.05.13-08.16.14:160][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2019.05.13-08.16.14:206][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2019.05.13-08.16.18:250][ 78]LogSlate: Window 'New Level' being destroyed
+[2019.05.13-08.16.18:258][ 78]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.13-08.16.18:304][ 78]LightingResults: New page: Lighting Build
+[2019.05.13-08.16.18:305][ 78]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.05.13-08.16.18:309][ 78]MapCheck: New page: Map Check
+[2019.05.13-08.16.18:309][ 78]LightingResults: New page: Lighting Build
+[2019.05.13-08.16.18:361][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.05.13-08.16.18:425][ 78]LogAIModule: Creating AISystem for world Untitled_1
+[2019.05.13-08.16.18:534][ 78]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.13-08.16.18:580][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2019.05.13-08.16.18:586][ 78]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.13-08.16.18:586][ 78]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,254ms to complete.
+[2019.05.13-08.16.18:586][ 78]LogFileHelpers: Loading map 'Template_Default' took 0.329
+[2019.05.13-08.16.40:393][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.13-08.17.03:296][229]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.13-08.17.03:406][229]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2019.05.13-08.17.03:455][229]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.05.13-08.17.03:723][229]LogSavePackage: Moving 'D:/ma/projecten/tweede jaar/ProjectInputOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Saved/MartijnScene8F4939C64E9B66A4AFC13885AD74D1FC.tmp' to 'D:/ma/projecten/tweede jaar/ProjectInputOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Content/Scenes/MartijnScene.umap'
+[2019.05.13-08.17.03:796][229]LogSavePackage: Moving 'D:/ma/projecten/tweede jaar/ProjectInputOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Saved/MartijnScene_BuiltData3998C6FD49018E7FCFC8F693ABC5C9B6.tmp' to 'D:/ma/projecten/tweede jaar/ProjectInputOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Content/Scenes/MartijnScene_BuiltData.uasset'
+[2019.05.13-08.17.03:808][229]LogFileHelpers: Saving map 'MartijnScene' took 0.500
+[2019.05.13-08.17.13:514][563]LogSlate: Window 'New Level' being destroyed
+[2019.05.13-08.17.13:525][563]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.13-08.17.13:553][563]LightingResults: New page: Lighting Build
+[2019.05.13-08.17.13:554][563]LoadErrors: New page: Loading map: Template_Default.umap
+[2019.05.13-08.17.13:555][563]MapCheck: New page: Map Check
+[2019.05.13-08.17.13:555][563]LightingResults: New page: Lighting Build
+[2019.05.13-08.17.13:607][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2019.05.13-08.17.13:631][563]LogAIModule: Creating AISystem for world Untitled_2
+[2019.05.13-08.17.13:738][563]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.13-08.17.13:786][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2019.05.13-08.17.13:792][563]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.13-08.17.13:792][563]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,221ms to complete.
+[2019.05.13-08.17.13:792][563]LogFileHelpers: Loading map 'Template_Default' took 0.269
+[2019.05.13-08.17.28:959][696]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.13-08.17.29:057][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.05.13-08.17.29:109][696]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.05.13-08.17.29:331][696]LogSavePackage: Moving 'D:/ma/projecten/tweede jaar/ProjectInputOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Saved/SemSceneBB302407437EE6A4FC3D8585CF990B0E.tmp' to 'D:/ma/projecten/tweede jaar/ProjectInputOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Content/Scenes/SemScene.umap'
+[2019.05.13-08.17.29:403][696]LogSavePackage: Moving 'D:/ma/projecten/tweede jaar/ProjectInputOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Saved/SemScene_BuiltData75D54E30431D92465C466C823A64F564.tmp' to 'D:/ma/projecten/tweede jaar/ProjectInputOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Content/Scenes/SemScene_BuiltData.uasset'
+[2019.05.13-08.17.29:414][696]LogFileHelpers: Saving map 'SemScene' took 0.444
+[2019.05.13-08.18.17:369][ 75]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (47.925 sec). This should never happen. Something is wrong with the timer delegate!
