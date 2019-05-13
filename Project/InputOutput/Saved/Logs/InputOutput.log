@@ -666,3 +666,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.13-07.59.44:612][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
 [2019.05.13-07.59.44:640][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
 [2019.05.13-07.59.44:665][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.05.13-08.00.28:867][915]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.05.13-08.00.28:873][915]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
