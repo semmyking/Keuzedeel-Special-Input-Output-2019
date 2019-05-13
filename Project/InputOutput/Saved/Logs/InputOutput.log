@@ -668,3 +668,194 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.13-07.59.44:665][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
 [2019.05.13-08.00.28:867][915]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
 [2019.05.13-08.00.28:873][915]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.05.13-08.01.30:449][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.13-08.01.40:190][291]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.13-08.01.47:124][700]Cmd: TRANSACTION UNDO
+[2019.05.13-08.01.47:124][700]LogEditorTransaction: Undo Move Actors
+[2019.05.13-08.01.47:557][726]Cmd: TRANSACTION UNDO
+[2019.05.13-08.01.47:558][726]LogEditorTransaction: Undo Move Actors
+[2019.05.13-08.01.48:846][803]Cmd: TRANSACTION UNDO
+[2019.05.13-08.01.48:846][803]LogEditorTransaction: Undo Create Actors
+[2019.05.13-08.01.56:363][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.13-08.02.03:875][682]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2019.05.13-08.02.08:438][934]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.13-08.02.14:099][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.13-08.02.31:150][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.13-08.02.36:956][589]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.05.13-08.02.36:961][589]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Beveled, compiling. 
+[2019.05.13-08.02.37:091][589]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.05.13-08.02.37:091][589]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.05.13-08.02.37:091][589]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.05.13-08.02.37:091][589]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.05.13-08.02.41:239][832]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.05.13-08.02.41:271][834]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.05.13-08.02.54:374][619]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2019.05.13-08.02.59:561][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.13-08.03.06:023][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.13-08.03.07:756][420]Cmd: TRANSACTION UNDO
+[2019.05.13-08.03.07:756][420]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.05.13-08.03.07:830][420]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.05.13-08.03.08:090][435]Cmd: TRANSACTION UNDO
+[2019.05.13-08.03.08:090][435]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.05.13-08.03.08:138][435]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.05.13-08.03.08:658][466]Cmd: TRANSACTION UNDO
+[2019.05.13-08.03.08:659][466]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.13-08.03.09:569][520]Cmd: TRANSACTION UNDO
+[2019.05.13-08.03.09:569][520]LogEditorTransaction: Undo Clicking on Actors
+[2019.05.13-08.03.09:903][539]Cmd: TRANSACTION UNDO
+[2019.05.13-08.03.09:903][539]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.05.13-08.03.10:055][539]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.05.13-08.03.10:311][554]Cmd: TRANSACTION UNDO
+[2019.05.13-08.03.10:311][554]LogEditorTransaction: Undo Clicking on Actors (double-click)
+[2019.05.13-08.03.10:777][581]Cmd: TRANSACTION UNDO
+[2019.05.13-08.03.10:777][581]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.05.13-08.03.10:817][581]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2019.05.13-08.03.11:214][605]Cmd: TRANSACTION UNDO
+[2019.05.13-08.03.11:214][605]LogEditorTransaction: Undo Landscape Editing: Sculpt
+[2019.05.13-08.03.11:544][623]Cmd: TRANSACTION UNDO
+[2019.05.13-08.03.11:545][623]LogEditorTransaction: Undo Creating New Landscape
+[2019.05.13-08.03.11:899][643]Cmd: TRANSACTION UNDO
+[2019.05.13-08.03.11:899][643]LogEditorTransaction: Undo Edit Material
+[2019.05.13-08.04.30:446][923]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.05.13-08.04.32:711][ 51]Cmd: TRANSACTION UNDO
+[2019.05.13-08.04.32:711][ 51]LogEditorTransaction: Undo Brush Add
+[2019.05.13-08.04.36:338][268]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.13-08.04.38:226][381]MapCheck: New page: Map Check
+[2019.05.13-08.04.38:238][381]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.13-08.04.38:355][381]LightingResults: New page: Lighting Build - 13 mei 2019 12:04:38
+[2019.05.13-08.04.38:479][381]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.05.13-08.04.38:670][381]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.05.13-08.04.38:684][381]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.05.13-08.04.39:711][381]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.05.13-08.04.39:711][381]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14100
+[2019.05.13-08.04.44:224][381]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.05.13-08.04.44:224][381]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.05.13-08.04.44:224][381]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.05.13-08.04.44:224][381]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.05.13-08.04.44:224][381]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.05.13-08.04.44:224][381]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.05.13-08.04.44:333][381]LogEditorBuildUtils: Build time 0:06
+[2019.05.13-08.04.44:343][381]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.05.13-08.04.44:352][381]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.05.13-08.04.45:432][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.05.13-08.04.47:877][449]Job is a success!
+[2019.05.13-08.04.47:944][450]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.022s
+[2019.05.13-08.04.47:944][450]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.05.13-08.04.47:944][450]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2019.05.13-08.04.47:944][450]LogVolumetricLightmapImport:      Bricks at Level
+[2019.05.13-08.04.47:944][450]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2019.05.13-08.04.47:944][450]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2019.05.13-08.04.47:944][450]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.05.13-08.04.47:976][450]Lightmass on DESKTOP-0BTH82I: 963 ms total, 119 ms importing, 16 ms setup, 387 ms photons, 370 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 2.43 sec total, 0 ms processing.
+[2019.05.13-08.04.48:005][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.05.13-08.04.48:016][450]LogStaticLightingSystem: Illumination: 9.74 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.05.13-08.04.48:017][450]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.05.13-08.04.48:017][450]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.05.13-08.04.48:125][450]DumpUnbuiltLightIteractions
+[2019.05.13-08.04.48:125][450]Lights with unbuilt interactions: 0
+[2019.05.13-08.04.48:125][450]
+[2019.05.13-08.04.48:125][450]Primitives with unbuilt interactions: 0
+[2019.05.13-08.04.48:131][450]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.13-08.04.48:169][451]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.05.13-08.04.48:169][451]MapCheck: New page: MartijnScene - 13 mei 2019 12:04:48
+[2019.05.13-08.04.48:170][451]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,719ms to complete.
+[2019.05.13-08.04.56:106][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.13-08.05.04:318][413]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.13-08.05.06:580][548]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.13-08.05.07:664][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.13-08.05.11:985][867]MapCheck: New page: Map Check
+[2019.05.13-08.05.12:005][867]Cmd: MAP REBUILD ALLVISIBLE
+[2019.05.13-08.05.12:005][867]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.05.13-08.05.12:115][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2019.05.13-08.05.12:131][867]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.05.13-08.05.12:449][867]TextureStreamingBuild: Display: Compiling optional shaders took 0.329 seconds.
+[2019.05.13-08.05.12:461][867]LogLevel: Display: Export Material TexCoord Scales took 0.012 seconds.
+[2019.05.13-08.05.12:478][867]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2019.05.13-08.05.12:502][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2019.05.13-08.05.12:502][867]LightingResults: New page: Lighting Build - 13 mei 2019 12:05:12
+[2019.05.13-08.05.12:509][867]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.05.13-08.05.12:512][867]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.05.13-08.05.12:512][867]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.05.13-08.05.12:513][867]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.05.13-08.05.12:513][867]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14100
+[2019.05.13-08.05.17:186][867]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.05.13-08.05.17:188][867]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2019.05.13-08.05.18:210][867]LogEditorBuildUtils: Build time 0:06
+[2019.05.13-08.05.18:215][867]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.13-08.05.20:919][ 27]MapCheck: New page: Map Check
+[2019.05.13-08.05.20:945][ 27]LightingResults: New page: Lighting Build - 13 mei 2019 12:05:20
+[2019.05.13-08.05.20:960][ 27]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.05.13-08.05.20:964][ 27]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.05.13-08.05.20:964][ 27]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.05.13-08.05.20:964][ 27]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.05.13-08.05.20:964][ 27]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14100
+[2019.05.13-08.05.25:495][ 27]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.05.13-08.05.25:495][ 27]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.05.13-08.05.25:495][ 27]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.05.13-08.05.25:495][ 27]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.05.13-08.05.25:495][ 27]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.05.13-08.05.25:495][ 27]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.05.13-08.05.25:559][ 27]LogEditorBuildUtils: Build time 0:04
+[2019.05.13-08.05.25:599][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.05.13-08.05.26:925][ 86]Job is a success!
+[2019.05.13-08.05.26:974][ 88]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.008s
+[2019.05.13-08.05.26:974][ 88]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.05.13-08.05.26:974][ 88]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2019.05.13-08.05.26:974][ 88]LogVolumetricLightmapImport:      Bricks at Level
+[2019.05.13-08.05.26:974][ 88]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2019.05.13-08.05.26:974][ 88]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2019.05.13-08.05.26:975][ 88]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.05.13-08.05.27:016][ 88]Lightmass on DESKTOP-0BTH82I: 901 ms total, 110 ms importing, 22 ms setup, 388 ms photons, 347 ms processing, 0 ms extra exporting [0/0 mappings]. Threads: 2.27 sec total, 0 ms processing.
+[2019.05.13-08.05.27:016][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.05.13-08.05.27:023][ 88]LogStaticLightingSystem: Illumination: 6.05 sec (0 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.05.13-08.05.27:023][ 88]LogStaticLightingSystem: Lightmap texture memory:  0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.05.13-08.05.27:023][ 88]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.05.13-08.05.27:496][ 88]DumpUnbuiltLightIteractions
+[2019.05.13-08.05.27:496][ 88]Lights with unbuilt interactions: 0
+[2019.05.13-08.05.27:496][ 88]
+[2019.05.13-08.05.27:496][ 88]Primitives with unbuilt interactions: 0
+[2019.05.13-08.05.27:533][ 89]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.05.13-08.05.27:533][ 89]MapCheck: New page: MartijnScene - 13 mei 2019 12:05:27
+[2019.05.13-08.05.27:534][ 89]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,551ms to complete.
+[2019.05.13-08.05.34:353][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.13-08.05.42:145][957]LogMeshMerging: Error: Material M_AssetPlatform is missing required Material Parameters DiffuseTexture, NormalTexture, PackedTexture, MetallicTexture, SpecularTexture, RoughnessTexture, EmissiveTexture, OpacityTexture, OpacityMaskTexture, AmbientOcclusionTexture, MetallicConst, SpecularConst, RoughnessConst, OpacityConst, OpacityMaskConst, AmbientOcclusionConst, EmissiveScale, DiffuseConst, EmissiveConst, UseDiffuse, PackMetallic, PackSpecular, PackRoughness, UseMetallic, UseSpecular, UseRoughness, UseEmissive, UseOpacity, UseOpacityMask, UseAmbientOcclusion, resetting to default.
+[2019.05.13-08.05.44:476][ 74]LogMeshMerging: Error: Material M_Brick_Clay_New is missing required Material Parameters DiffuseTexture, NormalTexture, PackedTexture, MetallicTexture, SpecularTexture, RoughnessTexture, EmissiveTexture, OpacityTexture, OpacityMaskTexture, AmbientOcclusionTexture, MetallicConst, SpecularConst, RoughnessConst, OpacityConst, OpacityMaskConst, AmbientOcclusionConst, EmissiveScale, DiffuseConst, EmissiveConst, UseDiffuse, PackMetallic, PackSpecular, PackRoughness, UseMetallic, UseSpecular, UseRoughness, UseEmissive, UseOpacity, UseOpacityMask, UseAmbientOcclusion, resetting to default.
+[2019.05.13-08.05.46:780][209]Cmd: TRANSACTION UNDO
+[2019.05.13-08.05.46:780][209]LogEditorTransaction: Undo Edit Override Base Material
+[2019.05.13-08.05.48:062][286]Cmd: TRANSACTION UNDO
+[2019.05.13-08.05.48:062][286]LogEditorTransaction: Undo Edit Override Base Material
+[2019.05.13-08.06.07:539][ 53]LogAssetEditorManager: Opening Asset editor for World /Game/Scenes/SemScene.SemScene
+[2019.05.13-08.06.07:562][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.05.13-08.06.13:267][ 53]LogSlate: Window 'Save Content' being destroyed
+[2019.05.13-08.06.13:272][ 53]Cmd: MAP LOAD FILE="C:/Users/Gebruiker/Documents/GitHub/InOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Content/Scenes/SemScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.13-08.06.13:273][ 53]LightingResults: New page: Lighting Build
+[2019.05.13-08.06.13:274][ 53]LoadErrors: New page: Loading map: SemScene.umap
+[2019.05.13-08.06.13:276][ 53]MapCheck: New page: Map Check
+[2019.05.13-08.06.13:276][ 53]LightingResults: New page: Lighting Build
+[2019.05.13-08.06.13:302][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2019.05.13-08.06.13:354][ 53]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.13-08.06.13:354][ 53]LogAIModule: Creating AISystem for world SemScene
+[2019.05.13-08.06.13:382][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2019.05.13-08.06.13:402][ 53]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.13-08.06.13:402][ 53]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,126ms to complete.
+[2019.05.13-08.06.13:404][ 53]LogFileHelpers: Loading map 'SemScene' took 0.134
+[2019.05.13-08.06.14:563][120]LogAssetEditorManager: Opening Asset editor for World /Game/Scenes/SemScene.SemScene
+[2019.05.13-08.06.14:588][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2019.05.13-08.06.17:122][120]LogSlate: Window 'Save Content' being destroyed
+[2019.05.13-08.06.17:492][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.05.13-08.06.17:503][120]LogSavePackage: Moving 'C:/Users/Gebruiker/Documents/GitHub/InOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Saved/SemScene374A08D743AE8C7DF7C711854D0BBD5D.tmp' to 'C:/Users/Gebruiker/Documents/GitHub/InOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Content/Scenes/SemScene.umap'
+[2019.05.13-08.06.17:528][120]LogFileHelpers: Saving map 'SemScene' took 0.063
+[2019.05.13-08.06.17:531][120]Cmd: MAP LOAD FILE="C:/Users/Gebruiker/Documents/GitHub/InOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Content/Scenes/SemScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.13-08.06.17:531][120]LightingResults: New page: Lighting Build
+[2019.05.13-08.06.17:532][120]LoadErrors: New page: Loading map: SemScene.umap
+[2019.05.13-08.06.17:532][120]MapCheck: New page: Map Check
+[2019.05.13-08.06.17:532][120]LightingResults: New page: Lighting Build
+[2019.05.13-08.06.17:556][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.05.13-08.06.17:559][120]LogAIModule: Creating AISystem for world SemScene
+[2019.05.13-08.06.17:609][120]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.13-08.06.17:635][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2019.05.13-08.06.17:661][120]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.13-08.06.17:661][120]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,135ms to complete.
+[2019.05.13-08.06.17:662][120]LogFileHelpers: Loading map 'SemScene' took 0.132
+[2019.05.13-08.06.18:797][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.05.13-08.06.18:889][183]LogSavePackage: Moving 'C:/Users/Gebruiker/Documents/GitHub/InOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Saved/SemSceneE5A71DFD4A73E6C78B3B708A37C31BD8.tmp' to 'C:/Users/Gebruiker/Documents/GitHub/InOutput/Keuzedeel-Special-Input-Output-2019/Project/InputOutput/Content/Scenes/SemScene.umap'
