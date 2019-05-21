@@ -1,4 +1,4 @@
-﻿Log file open, 05/13/19 09:37:36
+﻿Log file open, 05/17/19 09:05:29
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogInit: Display: Running engine for game: InputOutput
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.473790
+LogStats: Stats thread started at 0.295761
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -120,13 +120,13 @@ LogInit: Build: ++UE4+Release-4.22-CL-6063286
 LogInit: Engine Version: 4.22.1-6063286+++UE4+Release-4.22
 LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
 LogInit: Net CL: 5660361
-LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
 LogInit: Compiled (64-bit): Apr 24 2019 04:36:48
 LogInit: Compiled with Visual C++: 19.16.27025.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.22
-LogInit: Command Line: 
-LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Command Line:
+LogInit: Base Directory: E:/Unreal/UE_4.22/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 23
 LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
@@ -393,7 +393,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.13-07.37.44:606][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
 [2019.05.13-07.37.44:607][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
 [2019.05.13-07.37.44:607][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
-[2019.05.13-07.37.44:608][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.05.13-07.37.44:608][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0
 [2019.05.13-07.37.44:608][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
 [2019.05.13-07.37.44:608][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
 [2019.05.13-07.37.44:608][  0]LogD3D11RHI:      Driver Date: Unknown
@@ -512,8 +512,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.13-07.38.06:508][  0]LogTexture: Display: Building textures: Pl_StoneBlock_r (AutoDXT, 2048X2048)
 [2019.05.13-07.38.06:508][  0]LogTexture: Display: Building textures: Pl_StoneBlock_d (AutoDXT, 2048X2048)
 [2019.05.13-07.38.06:508][  0]LogTexture: Display: Building textures: Pl_StoneBlock_n (BC5, 2048X2048)
-[2019.05.13-07.38.06:508][  0]LogMaterial: Display: Missing cached shader map for material M_Plastic_Blue_Pattern_Parent, compiling. 
-[2019.05.13-07.38.09:136][  0]LogMaterial: Display: Missing cached shader map for material M_StoneBlock, compiling. 
+[2019.05.13-07.38.06:508][  0]LogMaterial: Display: Missing cached shader map for material M_Plastic_Blue_Pattern_Parent, compiling.
+[2019.05.13-07.38.09:136][  0]LogMaterial: Display: Missing cached shader map for material M_StoneBlock, compiling.
 [2019.05.13-07.38.09:317][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
 [2019.05.13-07.38.09:491][  0]LogSkeletalMesh: Built Skeletal Mesh [0.18s] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
 [2019.05.13-07.38.09:654][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
@@ -917,7 +917,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.13-12.25.55:059][938]LogTexture: Display: Building textures: Pl_Grass_trim_r (AutoDXT, 1024X1024)
 [2019.05.13-12.25.55:059][938]LogTexture: Display: Building textures: Pl_Grass_trim_d (AutoDXT, 1024X1024)
 [2019.05.13-12.25.55:059][938]LogTexture: Display: Building textures: Pl_Grass_trim_n (BC5, 2048X2048)
-[2019.05.13-12.25.55:059][938]LogMaterial: Display: Missing cached shader map for material M_GrassTrim, compiling. 
+[2019.05.13-12.25.55:059][938]LogMaterial: Display: Missing cached shader map for material M_GrassTrim, compiling.
 [2019.05.13-12.25.55:205][938]LogStaticMesh: Building static mesh Pl_gtrim_03...
 [2019.05.13-12.25.55:306][938]LogStaticMesh: Built static mesh [0.11s] /Game/Platformer/Meshes/Pl_gtrim_03.Pl_gtrim_03
 [2019.05.13-12.25.55:392][938]LogActorFactory: Actor Factory created Pl_gtrim_03
@@ -941,10 +941,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.13-12.26.48:372][303]LogTexture: Display: Building textures: Pl_Cliff_d (AutoDXT, 2048X2048)
 [2019.05.13-12.26.48:372][303]LogTexture: Display: Building textures: Pl_Cliff_r (AutoDXT, 2048X2048)
 [2019.05.13-12.26.48:372][303]LogTexture: Display: Building textures: Pl_Cliff_n (BC5, 2048X2048)
-[2019.05.13-12.26.48:372][303]LogMaterial: Display: Missing cached shader map for material M_Grass, compiling. 
+[2019.05.13-12.26.48:372][303]LogMaterial: Display: Missing cached shader map for material M_Grass, compiling.
 [2019.05.13-12.26.48:473][303]LogStaticMesh: Building static mesh Pl_8m_Platform...
 [2019.05.13-12.26.48:510][303]LogStaticMesh: Built static mesh [0.04s] /Game/Platformer/Meshes/Pl_8m_Platform.Pl_8m_Platform
-[2019.05.13-12.26.50:868][303]LogMaterial: Display: Missing cached shader map for material M_Cliff, compiling. 
+[2019.05.13-12.26.50:868][303]LogMaterial: Display: Missing cached shader map for material M_Cliff, compiling.
 [2019.05.13-12.26.50:990][303]LogActorFactory: Actor Factory created Pl_8m_Platform
 [2019.05.13-12.26.51:003][303]LogActorFactory: Actor Factory created Pl_8m_Platform
 [2019.05.13-12.27.03:825][686]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
@@ -1009,7 +1009,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.13-12.31.39:349][378]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
 [2019.05.13-12.31.39:349][378]LogEditorActor: Deleted 1 Actors (0.051 secs)
 [2019.05.13-12.31.45:354][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2019.05.13-12.31.45:679][743]LogMaterial: Display: Missing cached shader map for material M_Grass_nopattern, compiling. 
+[2019.05.13-12.31.45:679][743]LogMaterial: Display: Missing cached shader map for material M_Grass_nopattern, compiling.
 [2019.05.13-12.31.45:723][743]LogStaticMesh: Building static mesh Pl_8m_Hill...
 [2019.05.13-12.31.45:747][743]LogStaticMesh: Built static mesh [0.03s] /Game/Platformer/Meshes/Pl_8m_Hill.Pl_8m_Hill
 [2019.05.13-12.31.45:837][744]LogActorFactory: Actor Factory created Pl_8m_Hill
