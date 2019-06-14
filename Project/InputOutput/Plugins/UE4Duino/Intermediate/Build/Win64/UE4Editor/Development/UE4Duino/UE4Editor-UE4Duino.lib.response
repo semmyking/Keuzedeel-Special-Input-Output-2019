@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UE4Duino.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\ma\projecten\tweede jaar\ProjectInputOutput\Keuzedeel-Special-Input-Output-2019\Project\InputOutput\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\ma\projecten\tweede jaar\ProjectInputOutput\Keuzedeel-Special-Input-Output-2019\Project\InputOutput\Plugins\UE4Duino\Intermediate\Build\Win64\UE4Editor\Development\UE4Duino\Module.UE4Duino.cpp.obj"
+"D:\ma\projecten\tweede jaar\ProjectInputOutput\Keuzedeel-Special-Input-Output-2019\Project\InputOutput\Plugins\UE4Duino\Intermediate\Build\Win64\UE4Editor\Development\UE4Duino\Module.UE4Duino.gen.cpp.obj"
+"D:\ma\projecten\tweede jaar\ProjectInputOutput\Keuzedeel-Special-Input-Output-2019\Project\InputOutput\Plugins\UE4Duino\Intermediate\Build\Win64\UE4Editor\Development\UE4Duino\Default.rc2.res"
+/OUT:"D:\ma\projecten\tweede jaar\ProjectInputOutput\Keuzedeel-Special-Input-Output-2019\Project\InputOutput\Plugins\UE4Duino\Intermediate\Build\Win64\UE4Editor\Development\UE4Duino\UE4Editor-UE4Duino.lib"
+/INCLUDE:IMPLEMENT_MODULE_UE4Duino
